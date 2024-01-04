@@ -8,7 +8,10 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"ceiling fan",
+"corrosive bottle of Blug"
+"stroek indcuing joce"];
 
 var melee =
 ["sword",
@@ -31,7 +34,9 @@ var melee =
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka"];
+"bottle of vodka",
+"Flamin hot cheeto",
+"empty bottle of blug"];
 
 var itemsToFind =
 ["fruit tree",
@@ -67,7 +72,9 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings"];
+"findings",
+"Ms Blackburn's left eyeball",
+"tree dolla bill"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -75,7 +82,8 @@ var itemsThatGivePoints = [
 "glasses that cure color-blindness",
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
-"50% off coupon to an SAT prep class"];
+"50% off coupon to an SAT prep class",
+"tree dolla bill"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -165,7 +173,9 @@ var killCauseAndEffect =
 "frisbee",
 "decapitates",
 "tank",
-"murders"];
+"murders",
+"stroek inducing joce",
+"stroeks all over"];
 
 var shelter =
 ["cave",
@@ -179,7 +189,8 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"brothel",
+"imaginary water bottle"];
 
 var cornucopia =
 ["run",
@@ -346,7 +357,8 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge",
+"has many big storke and dieings"];
 
 var doubleDeath =
 ["strangles",
@@ -355,7 +367,8 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from",
+"gets fatally vomited on by"];
 
 var options =
 ["weapons",
