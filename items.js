@@ -10,7 +10,7 @@ var weapons =
 "frisbee",
 "tank",
 "ceiling fan",
-"corrosive bottle of Blug"
+"corrosive bottle of Blug",
 "stroek indcuing joce"];
 
 var melee =
@@ -83,7 +83,7 @@ var itemsThatGivePoints = [
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
 "50% off coupon to an SAT prep class",
-"tree dolla bill"];
+"three dollar bill"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -151,7 +151,9 @@ var causeAndEffect =
 "email",
 "dies of shame after being kicked off the finance team",
 "findings",
-"becomes the most successful paleontologist from Vatican City"];
+"becomes the most successful paleontologist from Vatican City",
+"three dollar bill",
+"becomes back their money, and hopes you will in your next time, a cow, on a trash farm, you sucker"];
 
 var killCauseAndEffect =
 ["landmine",
@@ -190,7 +192,7 @@ var shelter =
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
 "brothel",
-"imaginary water bottle"];
+"imaginary water bottle cap"];
 
 var cornucopia =
 ["run",
@@ -223,7 +225,8 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"three dollar bill"];
 
 var misc =
 ["wanders around",
@@ -271,7 +274,8 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo",
+"buys the Binding of Isaac Repentance on steam];
 
 var injury =
 ["gets a cold",
@@ -320,7 +324,9 @@ var injEffect =
 "fidget spinner",
 "spins fidget spinner nonfatally at",
 "assault rifle",
-"shoots and grazes"];
+"shoots and grazes",
+"stroek indcuing joce",
+"stroeks nonfatally at"];
 
 var variousDeaths =
 ["strangles",
